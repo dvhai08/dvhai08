@@ -29,8 +29,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <br/><br/>
-<img style="float" align = "left" src="https://github-readme-stats.vercel.app/api?username=dvhai08&count_private=true&show_icons=true&theme=cobalt" alt="dvhai08" />
-<img style="float" align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvhai08&show_icons=true&theme=cobalt&hide=html,tex,java,g-code,css,javascript" alt="dvhai08" />
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+![Hải Đỗ's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvhai08&&count_private=true&show_icons=true,prs)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvhai08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
